@@ -15,7 +15,7 @@ This is a simple linear regression analysis program that predicts the percentage
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/gauravabhishek29/Prediction-using-Supervised-ML.git
 
 
 # Usage
